@@ -2,7 +2,7 @@
 
 ## I am a beginner QA engineer
 
-[![Header](https://github.com/EvseevRoman/EvseevRoman/blob/main/assets/Skills.ru%20(2).png)]
+[![Header](https://github.com/EvseevRoman/EvseevRoman/blob/main/assets/Skills%20editeng%20fon.ru%20(2).png)]
 
 
 пше 
