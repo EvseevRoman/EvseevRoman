@@ -2,17 +2,8 @@
 
 ## I am a beginner QA engineer
 
-## Skills: 
-Функциональное тестирование
-Интеграционное тестирование
-Тестирование UI, UX
-Тестирование API
-Тестирование web, desktop и mobile приложений
-Анализ требований
-Тестирование локализации
-Тестирование безопасности
-Повторное тестирование
-Приёмочное тестирование
+[(https://github.com/EvseevRoman/EvseevRoman/blob/main/assets/Skills.ru%20(2).png)]
 
 
+пше 
 Ssylka ns cjw git status
