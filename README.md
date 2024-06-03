@@ -18,6 +18,16 @@
 
 ## Tools:
 ![Postman](https://img.shields.io/badge/Postman-blue?logo=postman&style=for-the-badge)
+![Postman](https://img.shields.io/badge/Android%20Studio-EFEFEF?logo=Android%20Studio&style=for-the-badge)
+![Postman](https://img.shields.io/badge/Charles-97C900?logo=Charles&style=for-the-badge)
+![Postman](https://img.shields.io/badge/Chrome%20DevTools-blue?logo=data:/&style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-blue?logo=postman&style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-blue?logo=postman&style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-blue?logo=postman&style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-blue?logo=postman&style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-blue?logo=postman&style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-blue?logo=postman&style=for-the-badge)
+
 
 
 
