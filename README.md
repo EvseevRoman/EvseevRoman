@@ -33,3 +33,5 @@
 ### Тестирование безопасности
 ### Повторное тестирование
 ### Приёмочное тестирование
+
+## Link to my thesis: [![graduate work](https://img.shields.io/badge/Graduate%20work-009B94?logo=apache&logoColor=E4FC0F&style=plastic)](https://picassor.youtrack.cloud/agiles/160-2)
