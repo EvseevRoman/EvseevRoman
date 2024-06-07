@@ -9,7 +9,7 @@
 ### Сейчас занимаюсь дипломной работой и планирую выучить Python для автоматизированного тестирования. 
 
 ## Tools:
-![Postman](https://img.shields.io/badge/Postman-0E499A?logo=postman&style=plastic)(https://www.postman.com/martian-moon-551046/workspace/query-collection/collection/32284693-a0e52936-a560-4d5f-aaac-c18361c94662?action=share&creator=32284693)
+[![Postman](https://img.shields.io/badge/Postman-0E499A?logo=postman&style=plastic)](https://www.postman.com/martian-moon-551046/workspace/query-collection/collection/32284693-a0e52936-a560-4d5f-aaac-c18361c94662?action=share&creator=32284693)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-EFEFEF?logo=Android%20Studio&style=plastic)
 ![Charles](https://img.shields.io/badge/Charles-97C900?logo=Charles&logoColor=E4FC0F&style=plastic)
 ![Git](https://img.shields.io/badge/Git-2EA6C3?logo=Git&logoColor=red&style=plastic)
