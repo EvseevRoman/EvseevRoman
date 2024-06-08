@@ -9,12 +9,12 @@
 ### Сейчас занимаюсь дипломной работой и планирую выучить Python для автоматизированного тестирования. 
 
 ## Tools:
-[![Postman](https://img.shields.io/badge/Postman-0E499A?logo=postman&style=plastic)](https://www.postman.com/martian-moon-551046/workspace/query-collection/collection/32284693-a0e52936-a560-4d5f-aaac-c18361c94662?action=share&creator=32284693)
+[![Postman](https://img.shields.io/badge/Postman-0E499A?logo=postman&style=plastic)](https://www.postman.com/martian-moon-551046/workspace/query-collection/collection/32284693-a0e52936-a560-4d5f-aaac-c18361c94662?action=share&creator=32284693 "Пример колекции запросов")
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-EFEFEF?logo=Android%20Studio&style=plastic)
 ![Charles](https://img.shields.io/badge/Charles-97C900?logo=Charles&logoColor=E4FC0F&style=plastic)
 ![Git](https://img.shields.io/badge/Git-2EA6C3?logo=Git&logoColor=red&style=plastic)
 ![Jira](https://img.shields.io/badge/Jira-D98CD3?logo=jira&logoColor=1085C9&style=plastic)
-[![You Track](https://img.shields.io/badge/You%20track-1085C9?logo=You%20track&style=plastic)](https://picassor.youtrack.cloud/agiles/160-2)
+[![You Track](https://img.shields.io/badge/You%20track-1085C9?logo=You%20track&style=plastic)](https://picassor.youtrack.cloud/agiles/160-2 "Пример работы в трекере")
 ![SQL](https://img.shields.io/badge/SQL-E8202A?logo=mySQL&logoColor=ffffff&style=plastic)
 ![Qase](https://img.shields.io/badge/Qase-E4FC0F?logo=Qase&logoColor=E8202A&style=plastic)
 ![Figma](https://img.shields.io/badge/Figma-016E7C?logo=Figma&logoColor=E4FC0F&style=plastic)
