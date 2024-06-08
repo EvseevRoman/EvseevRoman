@@ -23,15 +23,17 @@
 ![Dev Tools](https://img.shields.io/badge/Dev%20Tools-yellow?logo=googlesearchconsole&logoColor=009B94&style=plastic)
 
 ## Skills:
-### Функциональное тестирование
-### Интеграционное тестирование
-### Тестирование UI, UX
-### Тестирование API
-### Тестирование web, desktop и mobile приложений
-### Анализ требований
-### Тестирование локализации
-### Тестирование безопасности
-### Повторное тестирование
-### Приёмочное тестирование
+- Функциональное тестирование 
+- Интеграционное тестирование
+- Тестирование UI, UX
+- Тестирование API
+- Тестирование web, desktop и mobile приложений
+- Анализ требований
+- Тестирование локализации
+- Тестирование безопасности
+- Повторное тестирование
+- Приёмочное тестирование
 
 ## Link to my thesis: [![graduate work](https://img.shields.io/badge/Graduate%20work-009B94?logo=apache&logoColor=E4FC0F&style=plastic)](https://picassor.youtrack.cloud/agiles/160-2)
+
+[Go to TOP](#top)
