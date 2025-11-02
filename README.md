@@ -33,7 +33,7 @@
 ![Dev Tools](https://img.shields.io/badge/Dev%20Tools-yellow?logo=googlesearchconsole&logoColor=009B94&style=plastic)
 
 ## Skills:
-- Функциональное тестирование  - Функциональное тестирование 
+- Функциональное тестирование  [- Функциональное тестирование ]
 - Интеграционное тестирование
 - Тестирование UI, UX
 - Тестирование API
