@@ -8,7 +8,11 @@
 ### Готов применять и развивать свои знания на реальных проектах. Ищу возможность присоединиться к команде в рамках стажировки или junior-позиции, где смогу учиться, приносить пользу и профессионально расти.
 
 ## Tools:
-![Python](https://img.shields.io/badge/Python-F24922?logo=Python&logoColor=009B94&style=plastic)
+![Python](https://img.shields.io/badge/Python-F24922?logo=Python&logoColor=1085C9&style=plastic)
+![Selenium](https://img.shields.io/badge/Selenium-016E7C?logo=Selenium&logoColor=1085C9&style=plastic)
+![Playwright](https://img.shields.io/badge/Playwright-yellow?logo=Playwright&logoColor=1085C9&style=plastic)
+![PyTest](https://img.shields.io/badge/PyTest-B52C8E?logo=PyTest&logoColor=1085C9&style=plastic)
+![TestRail](https://img.shields.io/badge/TestRail-FDCA01?logo=TestRail&logoColor=009B94&style=plastic)
 [![Postman](https://img.shields.io/badge/Postman-0E499A?logo=postman&style=plastic)](https://www.postman.com/martian-moon-551046/workspace/query-collection/collection/32284693-a0e52936-a560-4d5f-aaac-c18361c94662?action=share&creator=32284693 "Пример колекции запросов")
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-EFEFEF?logo=Android%20Studio&style=plastic)
 ![Charles](https://img.shields.io/badge/Charles-97C900?logo=Charles&logoColor=E4FC0F&style=plastic)
