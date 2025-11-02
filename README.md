@@ -9,11 +9,15 @@
 
 ## Tools:
 ![Python](https://img.shields.io/badge/Python-F24922?logo=Python&logoColor=1085C9&style=plastic)
-![Selenium](https://img.shields.io/badge/Selenium-016E7C?logo=Selenium&logoColor=1085C9&style=plastic)
+![Selenium](https://img.shields.io/badge/Selenium-016E7C?logo=Selenium&logoColor=E4FC0F&style=plastic)
 ![Playwright](https://img.shields.io/badge/Playwright-yellow?logo=Playwright&logoColor=1085C9&style=plastic)
-![PyTest](https://img.shields.io/badge/PyTest-B52C8E?logo=PyTest&logoColor=1085C9&style=plastic)
+![PyTest](https://img.shields.io/badge/PyTest-B52C8E?logo=PyTest&logoColor=97C900&style=plastic)
+![Miniconda](https://img.shields.io/badge/Miniconda-1085C9?logo=Miniconda&logoColor=97C900&style=plastic)
+![Allure](https://img.shields.io/badge/Allure-1085C9?logo=Allure&logoColor=97C900&style=plastic)
 ![TestRail](https://img.shields.io/badge/TestRail-FDCA01?logo=TestRail&logoColor=009B94&style=plastic)
 [![Postman](https://img.shields.io/badge/Postman-0E499A?logo=postman&style=plastic)](https://www.postman.com/martian-moon-551046/workspace/query-collection/collection/32284693-a0e52936-a560-4d5f-aaac-c18361c94662?action=share&creator=32284693 "Пример колекции запросов")
+![Swagger](https://img.shields.io/badge/Android%20Studio-EFEFEF?logo=Android%20Studio&style=plastic)
+![Perfect Pixel](https://img.shields.io/badge/Perfect%20Pixel-EFEFEF?logo=Perfect%20Pixel&style=plastic)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-EFEFEF?logo=Android%20Studio&style=plastic)
 ![Charles](https://img.shields.io/badge/Charles-97C900?logo=Charles&logoColor=E4FC0F&style=plastic)
 ![Git](https://img.shields.io/badge/Git-2EA6C3?logo=Git&logoColor=red&style=plastic)
