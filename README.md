@@ -6,7 +6,7 @@
 ### QA Engineer с сильным инженерным бэкграундом, недавно завершивший профессиональное обучение
 ### Обладаю практическими навыками в ручном тестировании (функциональное, UI/UX, API, кросс-браузерное) и автоматизации на Python с использованием Selenium, Playwright и Pytest. Мой 20-летний опыт в инженерии научил меня системному подходу, тщательному анализу требований и скрупулезному документированию проблем — качествам, которые я теперь применяю в тестировании ПО.
 ### Готов применять и развивать свои знания на реальных проектах. Ищу возможность присоединиться к команде в рамках стажировки или junior-позиции, где смогу учиться, приносить пользу и профессионально расти.
-
+<!--
 ## Tools:
 ![Python](https://img.shields.io/badge/Python-F24922?logo=Python&logoColor=1085C9&style=plastic)
 ![Selenium](https://img.shields.io/badge/Selenium-016E7C?logo=Selenium&logoColor=E4FC0F&style=plastic)
@@ -31,7 +31,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-009B94?logo=HTML5&logoColor=E4FC0F&style=plastic)
 ![CSS3](https://img.shields.io/badge/CSS3-B52C8E?logo=CSS3&logoColor=1085C9&style=plastic)
 ![Dev Tools](https://img.shields.io/badge/Dev%20Tools-yellow?logo=googlesearchconsole&logoColor=009B94&style=plastic)
-
+-->
 
 ## 🛠 Skills & Tools
 
@@ -52,40 +52,31 @@
 - **Specification Testing** - тестирование технической документации
 - **Defect Localization** - локализация и детализация ошибок
 
-<table>
+## 💻 Technical Stack
 
-  <td width="50%">
-      <h3>💻 Technical Stack</h3>
-      <ul>
-        <li>Python + Pytest</li>
-        <li>Playwright</li>
-        <li>Selenium</li>
-        <li>Postman</li>
-        <li>SQL (MySQL, PostgreSQL)</li>
-        <li>Git</li>
-        <li>HTML5 / CSS3</li>
-        <li>Allure Reports</li>
-        <li>Miniconda</li>
-        <li>Flake8</li>
-      </ul>
-    </td>
-    <td width="50%">
-      <h3>🔧 Tools & Software</h3>
-      <ul>
-        <li>Jira, TestRail, Qase</li>
-        <li>YouTrack, Yougile, Kaiten</li>
-        <li>Charles Proxy, Swagger</li>
-        <li>Chrome DevTools</li>
-        <li>Android Studio</li>
-        <li>VS Code, PyCharm</li>
-        <li>Figma, Perfect Pixel, ColorZilla</li>
-        <li>Xmind, Draw.io</li>
-        <li>W3C Validator</li>
-        <li>Pairwise Online Tools</li>
-      </ul>
-    </td>
+- **Python + Pytest** - автоматизация тестирования
+- **Playwright** - современный фреймворк для E2E тестирования
+- **Selenium** - автоматизация веб-приложений
+- **Postman** - тестирование API
+- **SQL (MySQL, PostgreSQL)** - работа с базами данных
+- **Git** - контроль версий
+- **HTML5 / CSS3** - веб-технологии
+- **Allure Reports** - создание отчетов о тестировании
+- **Miniconda** - управление окружением Python
+- **Flake8** - линтинг кода
 
-</table>
+## 🔧 Tools & Software
+
+- **Jira, TestRail, Qase** - управление тестированием и баг-трекинг
+- **YouTrack, Yougile, Kaiten** - трекеры задач
+- **Charles Proxy, Swagger** - анализ API и документация
+- **Chrome DevTools** - отладка веб-приложений
+- **Android Studio** - тестирование мобильных приложений
+- **VS Code, PyCharm** - среда разработки
+- **Figma, Perfect Pixel, ColorZilla** - работа с дизайном
+- **Xmind, Draw.io** - создание диаграмм и ментальных карт
+- **W3C Validator** - валидация веб-стандартов
+- **Pairwise Online Tools** - техники тест-дизайна
 
 ### 🔋 Technologies
 
@@ -100,22 +91,31 @@
 ![Git](https://img.shields.io/badge/Git-2EA6C3?logo=Git&logoColor=red&style=plastic)
 ![Jira](https://img.shields.io/badge/Jira-D98CD3?logo=jira&logoColor=1085C9&style=plastic)
 ![TestRail](https://img.shields.io/badge/TestRail-FDCA01?logo=TestRail&logoColor=009B94&style=plastic)
-![Allure](https://img.shields.io/badge/Allure-019C6F?logo=Allure&logoColor=97C900&style=plastic)
+![Allure](https://img.shields.io/badge/Allure-0158A8?logo=Allure&logoColor=97C900&style=plastic)
 ![Figma](https://img.shields.io/badge/Figma-016E7C?logo=Figma&logoColor=E4FC0F&style=plastic)
 ![HTML5](https://img.shields.io/badge/HTML5-009B94?logo=HTML5&logoColor=E4FC0F&style=plastic)
 ![CSS3](https://img.shields.io/badge/CSS3-B52C8E?logo=CSS3&logoColor=1085C9&style=plastic)
 ![MySQL](https://img.shields.io/badge/MySQL-019C6F?logo=mysql&logoColor=white&style=plastic)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2EA6C3?logo=postgresql&logoColor=white&style=plastic)
-![VS Code](https://img.shields.io/badge/VS%20Code-016E7C?logo=visualstudiocode&logoColor=white&style=plastic)
+![VS Code](https://img.shields.io/badge/VS%20Code-FFED00?logo=visualstudiocode&logoColor=white&style=plastic)
 ![PyCharm](https://img.shields.io/badge/PyCharm-019C6F?logo=pycharm&logoColor=white&style=plastic)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-EFEFEF?logo=androidstudio&style=plastic)
-![Swagger](https://img.shields.io/badge/Swagger-EFEFEF?logo=swagger&style=plastic)
+![Swagger](https://img.shields.io/badge/Swagger-2EA6C3?logo=swagger&style=plastic)
 ![Charles](https://img.shields.io/badge/Charles-97C900?logo=charles&style=plastic)
-![Miniconda](https://img.shields.io/badge/Miniconda-EFEFEF?logo=miniconda&style=plastic)
-![Flake8](https://img.shields.io/badge/Flake8-AFAEB3?logo=flake8&style=plastic)
+![Miniconda](https://img.shields.io/badge/Miniconda-F4ADCC?logo=miniconda&style=plastic)
+![Flake8](https://img.shields.io/badge/Flake8-F7100F?logo=flake8&style=plastic)
 
 </div>
 
-## Link to my thesis: [![graduate work](https://img.shields.io/badge/Graduate%20work-009B94?logo=apache&logoColor=E4FC0F&style=plastic)](https://picassor.youtrack.cloud/agiles/160-2)
+## Link to my thesis:
+[![Thesis on web testing](https://img.shields.io/badge/Thesis%20on%20web%20testing-009B94?logo=apache&logoColor=E4FC0F&style=plastic)](https://picassor.youtrack.cloud/agiles/160-2)
+[![Thesis on autotests](https://img.shields.io/badge/Thesis%20on%20autotests-D98CD3?logo=apache&logoColor=E4FC0F&style=plastic)](https://github.com/EvseevRoman/autotests-python)
+
+## Links to certificates:
+[![Автотесты на Python](https://img.shields.io/badge/Автотесты%20на%20Python-2EA6C3?logo=apache&logoColor=E4FC0F&style=plastic)]([https://github.com/EvseevRoman/autotests-python](https://drive.google.com/file/d/1sCkuE-tweOND_TVFzztT7pl9kKFJdSmy/view?usp=sharing))
+[![Основы Python](https://img.shields.io/badge/Основы%20Python-97C900?logo=apache&logoColor=E4FC0F&style=plastic)]([https://github.com/EvseevRoman/autotests-python](https://drive.google.com/file/d/1rANnDDgKufrQvA-KSw2WoAiWKe9ZOhLU/view?usp=sharing))
+[![Ручное тестирование мобильных приложений](https://img.shields.io/badge/Ручное%20тестирование%20мобильных%20приложений-F24922?logo=apache&logoColor=E4FC0F&style=plastic)]([https://github.com/EvseevRoman/autotests-python](https://drive.google.com/file/d/10D4qv7wo0DBUXIRoOAS5DFpExlIuOjAa/view?usp=sharing))
+[![Ручное тестирование web приложений](https://img.shields.io/badge/Ручное%20тестирование%20web%20приложений-FFED00?logo=apache&logoColor=E4FC0F&style=plastic)]([https://github.com/EvseevRoman/autotests-python](https://drive.google.com/file/d/129UlziEznSEJdW7hzf5VDnk8L2G9enD2/view?usp=sharing))
+[![QA engineer](https://img.shields.io/badge/QA%20engineer-EFEFEF?logo=apache&logoColor=E4FC0F&style=plastic)]([https://github.com/EvseevRoman/autotests-python](https://drive.google.com/file/d/1SUwudqEinYfdmRHOyXSuP5-M8bh982FD/view?usp=sharing))
 
 [Go to TOP](#top)
