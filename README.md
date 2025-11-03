@@ -1,6 +1,7 @@
+<a name="top"></a>
 [![Header](https://github.com/EvseevRoman/EvseevRoman/blob/main/assets/logoza.ru%20(2000x350).png)](https://docs.google.com/document/d/1InJKGWMFX-7Z33Ak_8oHC0u-t3frveKb/edit?usp=sharing&ouid=116991001529248594707&rtpof=true&sd=true)
 
-👋 # I am a beginner QA engineer
+# 👋  I am a beginner QA engineer
 
 ## About me:
 ### QA Engineer с сильным инженерным бэкграундом, недавно завершивший профессиональное обучение
@@ -107,15 +108,33 @@
 
 </div>
 
-📜 ## Link to my thesis:
+## 📜 Link to my thesis:
 [![Thesis on web testing](https://img.shields.io/badge/Thesis%20on%20web%20testing-009B94?logo=apache&logoColor=E4FC0F&style=plastic)](https://picassor.youtrack.cloud/agiles/160-2)
 [![Thesis on autotests](https://img.shields.io/badge/Thesis%20on%20autotests-D98CD3?logo=apache&logoColor=E4FC0F&style=plastic)](https://github.com/EvseevRoman/autotests-python)
 
-🎓 ## Links to certificates:
+## 🎓 Links to certificates:
 [![Автотесты на Python](https://img.shields.io/badge/Автотесты%20на%20Python-2EA6C3?logo=apache&logoColor=E4FC0F&style=plastic)]([https://github.com/EvseevRoman/autotests-python](https://drive.google.com/file/d/1sCkuE-tweOND_TVFzztT7pl9kKFJdSmy/view?usp=sharing))
 [![Основы Python](https://img.shields.io/badge/Основы%20Python-97C900?logo=apache&logoColor=E4FC0F&style=plastic)]([https://github.com/EvseevRoman/autotests-python](https://drive.google.com/file/d/1rANnDDgKufrQvA-KSw2WoAiWKe9ZOhLU/view?usp=sharing))
 [![Ручное тестирование мобильных приложений](https://img.shields.io/badge/Ручное%20тестирование%20мобильных%20приложений-F24922?logo=apache&logoColor=E4FC0F&style=plastic)]([https://github.com/EvseevRoman/autotests-python](https://drive.google.com/file/d/10D4qv7wo0DBUXIRoOAS5DFpExlIuOjAa/view?usp=sharing))
 [![Ручное тестирование web приложений](https://img.shields.io/badge/Ручное%20тестирование%20web%20приложений-FFED00?logo=apache&logoColor=E4FC0F&style=plastic)]([https://github.com/EvseevRoman/autotests-python](https://drive.google.com/file/d/129UlziEznSEJdW7hzf5VDnk8L2G9enD2/view?usp=sharing))
 [![QA engineer](https://img.shields.io/badge/QA%20engineer-EFEFEF?logo=apache&logoColor=E4FC0F&style=plastic)]([https://github.com/EvseevRoman/autotests-python](https://drive.google.com/file/d/1SUwudqEinYfdmRHOyXSuP5-M8bh982FD/view?usp=sharing))
 
-[Go to TOP](#top)
+---
+
+## 📞 Контакты
+
+**📱 Телефон:** [+7 (920) 500-08-02](tel:+79205000802)  
+**📧 Email:** [evseeff.roman@mail.ru](mailto:evseeff.roman@mail.ru)  
+**📲 Telegram:** [@EvseevRoman79](https://t.me/EvseevRoman79)
+
+<div align="center">
+
+*Готов к обсуждению вакансий и проектов*
+
+</div>
+
+<div align="center">
+
+[🔼 Go to TOP](#top)
+
+</div>
